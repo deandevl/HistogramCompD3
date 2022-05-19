@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "devel": "parcel --dist-dir=devl ./public/index.html",
+    "build": "parcel build --dist-dir=prod ./public/index.html",
+    "watch": "parcel watch --dist-dir=devl ./public/index.html"
+  },
+  "dependencies": {
+    "d3-fetch": "^3.0.1",
+    "d3-array": "^3.1.6",
+    "d3-axis": "^3.0.0",
+    "d3-scale": "^4.0.2",
+    "d3-selection": "^3.0.0",
+    "vue": "^3.2.33",
+    "less": "^4.1.2",
+    "buttoncomp": "git+https://github.com/deandevl/ButtonComp.git",
+    "rangecomp": "git+https://github.com/deandevl/RangeComp.git",
+    "inputcomp": "git+https://github.com/deandevl/InputComp.git"
+  },
+  "devDependencies": {
+    "parcel": "^2.5.0",
+    "@parcel/transformer-vue": "^2.5.0"
+  }
+}
