@@ -53,7 +53,7 @@
 </template>
 
 <script>
-import HistogramCompD3 from './HistogramCompD3';
+import HistogramCompD3 from 'histogramcompd3';
 import ButtonComp from 'buttoncomp'
 import InputComp from 'inputcomp';
 import {csv} from "d3-fetch";

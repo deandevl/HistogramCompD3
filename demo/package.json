@@ -14,7 +14,8 @@
     "less": "^4.1.2",
     "buttoncomp": "git+https://github.com/deandevl/ButtonComp.git",
     "rangecomp": "git+https://github.com/deandevl/RangeComp.git",
-    "inputcomp": "git+https://github.com/deandevl/InputComp.git"
+    "inputcomp": "git+https://github.com/deandevl/InputComp.git",
+    "histogramcompd3": "git+https://github.com/deandevl/HistogramCompD3.git"
   },
   "devDependencies": {
     "parcel": "^2.5.0",
